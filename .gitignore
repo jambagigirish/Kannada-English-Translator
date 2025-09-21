@@ -1,1 +1,18 @@
+# venv & Python
+.venv/
+__pycache__/
+*.pyc
 
+
+# HF cache (optional)
+~/.cache/huggingface/
+.huggingface/
+
+
+# dotenv
+.env
+
+
+# outputs & artifacts
+outputs/
+*.log
